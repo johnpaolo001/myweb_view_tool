@@ -1,6 +1,6 @@
 # MywebViewTool
 
-> Various view specific methods for application I use
+Various view specific methods for application I use
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+MyWebViewTool::Renderer.copyright 'Mr Smith', 'All right reserved'
 
 ## Development
 
